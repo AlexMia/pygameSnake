@@ -1,4 +1,4 @@
-# pygameSnake
+# Snake in Python with Pygame
 
 ## To-do
 - Add a main menu
